@@ -29,3 +29,35 @@ h1 {
     text-align: center;
     font-size: medium;
 }
+
+.two-favs {
+    text-align: center;
+    font-weight: bold;
+    color: rgba(0, 109, 136, 0.918);
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.Snowboarding {
+    text-align: center;
+    font-weight: bold;
+    color: rgba(0, 109, 136, 0.918);
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.Skating {
+    text-align: center;
+    font-weight: bold;
+    color: rgba(0, 109, 136, 0.918);
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.Hiking {
+    text-align: center;
+    font-weight: bold;
+    color: rgba(0, 109, 136, 0.918);
+    font-style: italic;
+    text-decoration: underline;
+}
