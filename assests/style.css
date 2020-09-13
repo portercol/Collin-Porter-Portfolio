@@ -1,3 +1,26 @@
+body {
+    background-image: url("/images/backGroundIMG.jpg");
+}
+
+h1 {
+    text-align: center;
+    font-size: medium;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    padding-right: 10%;
+    padding-left: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
 .display-4 {
     font-weight: bold;
     font-style: italic;
@@ -8,7 +31,6 @@
 
 .mt-0 {
     font-weight: bold;
-    /* text-align: center; */
     font-style: monospace;
 }
 
@@ -17,17 +39,9 @@
     margin-top: 2rem;
 }
 
-body {
-    background-image: url(backGroundIMG.jpg)
-}
-
 .container {
     background-color: rgb(224, 234, 247);
-}
-
-h1 {
-    text-align: center;
-    font-size: medium;
+    margin-top: 2rem;
 }
 
 .two-favs {
@@ -61,3 +75,28 @@ h1 {
     font-style: italic;
     text-decoration: underline;
 }
+
+.card-body {
+    text-align: center;
+}
+
+.card {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+/* #firstCard {
+   display: inline-block;
+}
+
+#secondCard {
+    display: inline-block;
+}
+
+#thirdCard {
+    display: inline-block;
+} */
+
+/* #fourthCard {
+    display: inline-block;
+} */
