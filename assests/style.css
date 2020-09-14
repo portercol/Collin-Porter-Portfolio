@@ -85,17 +85,17 @@ p {
     margin-bottom: 2em;
 }
 
-/* #firstCard {
-   display: inline-block;
+#firstCard {
+    justify-content: center;
 }
 
 #secondCard {
-    display: inline-block;
+    justify-content: center;
 }
 
 #thirdCard {
-    display: inline-block;
-} */
+    justify-content: center;
+}
 
 /* #fourthCard {
     display: inline-block;
