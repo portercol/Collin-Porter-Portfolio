@@ -85,7 +85,7 @@ p {
     margin-bottom: 2em;
 }
 
-#firstCard {
+/* #firstCard {
     justify-content: center;
 }
 
@@ -98,5 +98,5 @@ p {
 }
 
 /* #fourthCard {
-    display: inline-block;
+    justify-content: center;
 } */
