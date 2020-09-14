@@ -1,4 +1,11 @@
 # Collin-Porter-Portfolio
-This homework assignment was our most challenging one yet. Although using Bootstrap gives us huge advantages, I still found it to be challenging to fit everything on the page that I wanted to, that had the asthetic look while maintaining the minimum requirements. I often had to rely on peers and google for support. I really enjoyed this one and hope to continue on improving my skills.
+
+This assignment was difficult yet still very fun to work with. It was challenging becuase up to this point I'm still learning the ins and outs of HTML and CSS + CDN's for styling. It was fun because it get to express myself through code. I get to let people know who I am and what I like doing.
 
 Link to live site: [MyPortfolio](https://portercol.github.io/Collin-Porter-Portfolio/)
+
+# Credits
+
+1. Bootstrap CDN
+2. GOOGLE
+3. TAs / Tutors
