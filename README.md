@@ -1,5 +1,9 @@
 # Collin Porter Portfolio
 
+[Collins Porfolio](https://portercol.github.io/Collin-Porter-Portfolio/)
+
+## Description
+
 This application features 3 pages:
 1. The first section or "About Me" is where I show a few different images of my favorite things.
 2. The second section or "Professional Portfolio" is where I have some examples of different homework assignments and projects I've worked on. 
@@ -11,9 +15,8 @@ This application features 3 pages:
 
 ![Collin Porter Portfolio](images/contactMe.png)
 
-Link to live site: [Collins Porfolio](https://portercol.github.io/Collin-Porter-Portfolio/)
 
-# Credits/Technologies Used
+## Credits/Technologies Used
 
 1. Bootstrap CDN
 2. GOOGLE
