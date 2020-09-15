@@ -1,6 +1,6 @@
 # Collin Porter Portfolio
 
-[Collins Porfolio](https://portercol.github.io/Collin-Porter-Portfolio/)
+Link to live site: [Collins Porfolio](https://portercol.github.io/Collin-Porter-Portfolio/)
 
 ## Description
 
