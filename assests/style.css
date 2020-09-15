@@ -17,14 +17,6 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: large;
 }
-.contactMe {
-    font-weight: bold;
-    font-size: x-large;
-    font-style: italic;
-    color: rgba(0, 109, 136, 0.918);
-    text-align: center;
-    background-color: rgb(224, 234, 247);
-}
 
 .mt-0 {
     font-weight: bold;
