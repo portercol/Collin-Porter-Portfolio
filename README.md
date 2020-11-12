@@ -16,10 +16,8 @@ This application features 3 pages:
 ![Collin Porter Portfolio](images/contactMe.png)
 
 
-## Credits
+## Credits/Technologies
 
 1. Bootstrap CDN
 2. HTML5
-3. Basic CSS
-4. GOOGLE
-5. TAs / Tutors
+3. CSS
