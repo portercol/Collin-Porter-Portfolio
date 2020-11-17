@@ -5,13 +5,14 @@ h1 {
 
 h2 {
     text-align: center;
-    padding-top: 5%;
+    padding-top: 3%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
 }
 
 p {
     text-align: center;
+    padding-top: 3%;
     padding-right: 10%;
     padding-left: 10%;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -30,7 +31,7 @@ p {
 
 .container {
     background-color: rgb(224, 234, 247);
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 
 .two-favs {
@@ -41,7 +42,7 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.Snowboarding {
+.snowboarding {
     text-align: center;
     font-weight: bold;
     color: rgba(0, 109, 136, 0.918);
@@ -49,7 +50,7 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.Skating {
+.skating {
     text-align: center;
     font-weight: bold;
     color: rgba(0, 109, 136, 0.918);
@@ -57,7 +58,7 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.Hiking {
+.traveling {
     text-align: center;
     font-weight: bold;
     color: rgba(0, 109, 136, 0.918);
